@@ -15,9 +15,8 @@ import com.jxust.svsh.service.PersonService;
 
 
 /**
- * controller
- * @author //标识它是一个控制器
- * @Date2016年12月9日上午11:25:40
+ * @author kit
+ * @date  202020815
  */
 @SessionAttributes(value = "username")
 @Controller    //使用该注解标志它是一个控制器

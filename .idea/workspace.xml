@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cbd2d0a-4e06-41f2-bef5-0e5c214fd4ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/c3p0-0.9.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hibernate-core-5.0.12.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-jdbc-5.0.7.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence-api-2.2.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jxust/svsh/controller/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jxust/svsh/controller/PersonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jxust/svsh/entity/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jxust/svsh/entity/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +97,7 @@
       <workItem from="1569722609965" duration="1030000" />
       <workItem from="1569724548827" duration="900000" />
       <workItem from="1569726792262" duration="658000" />
-      <workItem from="1597468423950" duration="1906000" />
+      <workItem from="1597468423950" duration="3105000" />
     </task>
     <servers />
   </component>

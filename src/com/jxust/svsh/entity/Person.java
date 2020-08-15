@@ -11,8 +11,8 @@ import org.hibernate.annotations.GenericGenerator;
 /**
  * 个人信息实体类
  * 注解方式配置对应数据表
- * @author Peng
- * @Date2016年12月8日下午2:54:52
+ * @author kit
+ * @date  202020815
  */
 @Entity
 @Table(name = "person")

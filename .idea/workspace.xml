@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cbd2d0a-4e06-41f2-bef5-0e5c214fd4ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/spring-beans-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-context-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-core-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-web-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-webmvc-5.0.7.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/c3p0-0.9.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hibernate-core-5.0.12.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spring-jdbc-5.0.7.RELEASE.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EmSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EmSystem.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +98,7 @@
       <workItem from="1569722609965" duration="1030000" />
       <workItem from="1569724548827" duration="900000" />
       <workItem from="1569726792262" duration="658000" />
-      <workItem from="1597468423950" duration="1415000" />
+      <workItem from="1597468423950" duration="1906000" />
     </task>
     <servers />
   </component>
@@ -113,9 +110,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1597469367671" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1597469838690">
+    <state x="121" y="0" key="SettingsEditor" timestamp="1597470330256">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597469838690" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597470330256" />
   </component>
 </project>
